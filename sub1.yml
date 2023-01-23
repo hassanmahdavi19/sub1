@@ -1,2 +1,12 @@
 proxies:
   - {'name': '🇨🇦CA-198.57.27.184-0000', 'server': '198.57.27.184', 'port': 3389, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'Y6R9pAtvxxzmGC'}
+  - {'name': '🇺🇸US-38.107.226.241-0001', 'server': '38.107.226.241', 'port': 2375, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'faBAoD54k87UJG7'}
+  - {'name': '🇨🇦CA-134.195.196.110-0002', 'server': '134.195.196.110', 'port': 8090, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'PCnnH6SQSnfoS27'}
+  - {'name': '🇺🇸US-38.107.226.48-0003', 'server': '38.107.226.48', 'port': 5004, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'g5MeD6Ft3CWlJId'}
+  - {'name': '🇺🇸US-38.121.43.91-0004', 'server': '38.121.43.91', 'port': 8090, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'PCnnH6SQSnfoS27'}
+  - {'name': '🇺🇸US-38.107.226.241-0005', 'server': '38.107.226.241', 'port': 7307, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'FoOiGlkAA9yPEGP'}
+  - {'name': '🇨🇦CA-134.195.196.193-0006', 'server': '134.195.196.193', 'port': 7307, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'FoOiGlkAA9yPEGP'}
+  - {'name': '🇺🇸US-38.68.134.37-0007', 'server': '38.68.134.37', 'port': 8080, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'KixLvKzwjekG00rm'}
+  - {'name': '🇺🇸US-38.68.135.93-0008', 'server': '38.68.135.93', 'port': 443, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'pKEW8JPByTVTLtM'}
+  - {'name': '🇦🇺AU-172.105.180.227-0009', 'server': '172.105.180.227', 'port': 6679, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'TEzjfAYq2IjtuoS'}
+  - {'name': '🇨🇳CN-120.232.208.195-0010', 'server': '120.232.208.195', 'port': 19057, 'type': 'vmess', 'uuid': 'b1f64afe-67ae-3b44-bcb3-5ff2bc913170', 'alterId': 0, 'cipher': 'auto', 'tls': False, 'skip-cert-verify': False, 'network': 'ws', 'ws-opts': {'path': '/catnet', 'headers': {'Host': 'cdn-cn.nekocloud.cn'}}}
