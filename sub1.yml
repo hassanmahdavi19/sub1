@@ -1,2 +1,2 @@
 proxies:
-- {'name': '🏁RELAY-172.64.154.102-0122', 'server': '172.64.154.102', 'port': 443, 'type': 'vmess', 'uuid': '5f64fa65-7b14-49c5-954d-aa15c6bfcacd', 'alterId': 0, 'cipher': 'auto', 'tls': True, 'skip-cert-verify': False, 'network': 'ws', 'ws-opts': {'path': '/dongtaiwang.com', 'headers': {'Host': 'clash6.ssr-free.xyz'}}}
+  - {'name': '🇨🇦CA-198.57.27.184-0000', 'server': '198.57.27.184', 'port': 3389, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'Y6R9pAtvxxzmGC'}
