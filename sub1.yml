@@ -1,3 +1,4 @@
 proxies:
   - {'name': 'hassan', 'server': 'datak.cf', 'port': 35201, 'type': 'trojan', 'password': 'gRMUiqDw2L', 'skip-cert-verify': False,'tls': true, 'network': 'tcp', }
+    trojan://gRMUiqDw2L@datak.cf:35201?security=tls&type=tcp&headerType=none#irantrojan3
 
