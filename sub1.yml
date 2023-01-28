@@ -1,7 +1,7 @@
 proxies:
   - alterId: 0
     cipher: auto
-    name: hassan | 0MB
+    name: hassan
     network: grpc
     grpc mode: gun
     port: 8443
