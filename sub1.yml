@@ -11,4 +11,4 @@ proxies:
     type: vless
     uuid: a5f03ce2-9336-4d83-980c-6ceacf62bf93
     sni: h.mrc0nnect.tk
-    allowinsecure: true
+    allow insecure: true
