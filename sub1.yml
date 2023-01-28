@@ -1,17 +1,14 @@
 proxies:
-  - {'name': 'hassan', 'server': 'datak.cf', 'port': 35201, 'type': 'trojan', 'password': 'gRMUiqDw2L', 'skip-cert-verify': False,'tls': true, 'network': 'tcp', }
-  - {'name': '🏁RELAY-172.67.165.160-0093', 'server': 'v47.toddns.tk', 'port': 80, 'type': 'vmess', 'uuid': 'a25881f3-967f-3265-bc7f-9e66857b016b', 'alterId': 0, 'cipher': 'auto', 'tls': False, 'skip-cert-verify': False, 'network': 'ws', 'ws-opts': {'path': '/v47-unlimitndxd', 'headers': {'Host': 'v47.toddns.tk'}}}
-  - cipher: auto
-    name: BR-132.226.245.32-1015 | 18.585MB
-    port: 27532
-    server: 132.226.245.32
-    skip-cert-verify: false
-    tls: false
-    type: vmess
-    uuid: cd7815b9-c6d2-41f2-cbdc-bd96a22d28dd
-  - name: IE-3.249.129.98-1472 | 37.913MB
-    password: cf4295378e209e70d12c5bdd017144dfd1c772d3
+  - alterId: 0
+    cipher: auto
+    name: hassan | 0MB
+    network: grpc
+    grpc mode: gun
     port: 8443
-    server: 3-249-129-98.ipv4.rush.ml
+    server: www.speedtest.net
     skip-cert-verify: false
-    type: trojan
+    tls: true
+    type: vless
+    uuid: a5f03ce2-9336-4d83-980c-6ceacf62bf93
+    sni: h.mrc0nnect.tk
+    allowinsecure: true
