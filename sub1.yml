@@ -12,13 +12,3 @@ proxies:
     uuid: a5f03ce2-9336-4d83-980c-6ceacf62bf93
     sni: h.mrc0nnect.tk
     allow insecure: true
-- alterId: 0
-    cipher: auto
-    name: conf1hm
-    network: ws
-    port: 18211
-    server: speedi.tk
-    skip-cert-verify: false
-    tls: flase
-    type: vmess
-    uuid: 7ae4e970-d486-46dd-c387-d8c394dca118
